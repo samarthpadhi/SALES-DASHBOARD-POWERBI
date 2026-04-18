@@ -38,4 +38,5 @@ MS Excel (for data source)
 
 
 • Outcome
+
 The dashboard enables users to quickly understand sales performance, identify trends, and make informed business decisions. The addition of forecasting enhances the project by providing future insights, making it more valuable for planning and strategy.
